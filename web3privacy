@@ -16,3 +16,5 @@ debank.com/v1/*
 api.ipify.org/*
 ip-api.com/json*
 ipapi.co/json*
+/api/discord/*
+api.zapper.fi/api/*
