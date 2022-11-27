@@ -1,4 +1,11 @@
 ### Hi there 👋
+#############################################################################
+UPDATE:
+I made two configs
+anti-monkey does only target monkeydrainers 100% effective for now.
+
+web3privacy is all around protection which already include anti-monkey.
+#############################################################################
 
 This is a filter list you can import into a browser that supports it like Brave, or uBlock
 copy the url from web3privacy as RAW and use it.
