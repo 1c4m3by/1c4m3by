@@ -6,8 +6,8 @@ copy the url from web3privacy as RAW and use it.
 What it does?
 
 - Blocks info sending to badactor(Tg/Discord) √
-- Blocks IP address send out  √
-- Destroy MonkeyDrainer √
+- Blocks knownn IP API  √
+- Destroys MonkeyDrainer √
 - Keep your assets private so a website can not lookup what you own √
 
 See this as a 3rd layer defense if your extensions fail this should protect in some cases, on the other side it does have more privacy protection
