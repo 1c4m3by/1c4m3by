@@ -21,7 +21,10 @@ Filter can be easly disabled / enabled through settings on your browser.
 Suggestion example, get Brave browser, create a profile install metamask and use burner account, 
 put the list under settings>shields>content filter>Add custom filter lists>URL from github web3privacy as RAW.
 
+uBlock: Settings>Filter List>Custom>Import>URL TO GITHUB
+
 - ill try update everytime its needed, which should auto apply through the url from github.
 
+Tested on: Brave, uBlock.
 
 created by @1c4m3by
