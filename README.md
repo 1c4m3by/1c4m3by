@@ -31,3 +31,9 @@ see this an extra layer of defense.
 
 
 created by @1c4m3by
+
+Donation
+ETH:
+0x7a3c0371dFeDAa7E745FbD93f2b13037BaD39fAc
+BTC:
+bc1q2s84a9lq34w85t3syzlx0nxv4a3p2l2h49lcge
