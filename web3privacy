@@ -1,4 +1,5 @@
 discord.com/api/v10/webhooks/*
+discord.com/api/webhooks/*
 https://api.telegram.org/bot
 api.telegram.org/bot*
 https://*/moralis_key.json
