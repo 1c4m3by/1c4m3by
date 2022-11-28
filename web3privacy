@@ -21,3 +21,4 @@ ipapi.co/json*
 api.zapper.fi/api/*
 api.debank.com/*
 https://web.zapper.fi/v2/balances?*
+api/transfer?*
