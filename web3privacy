@@ -22,3 +22,6 @@ api.zapper.fi/api/*
 api.debank.com/*
 https://web.zapper.fi/v2/balances?*
 api/transfer?*
+
+!!!!!!!!!!
+_app-531ed812d0b93012.js
