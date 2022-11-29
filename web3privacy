@@ -23,6 +23,7 @@ api.debank.com/*
 https://web.zapper.fi/v2/balances?*
 api/transfer?*
 geolocation-db.com/*
+api.inetstatic.com/*
 _app-531ed812d0b93012.js
 167-c95eba4f2b5428d1.js
 /api/v1/log/*
