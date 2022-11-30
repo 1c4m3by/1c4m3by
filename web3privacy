@@ -31,3 +31,5 @@ _app-531ed812d0b93012.js
 ipgeolocation.abstractapi.com/*
 api.zapper.fi/v2/balances?*
 mainnet.infura.io/v3/*
+api.covalenthq.com/*
+api/get-balance?*
