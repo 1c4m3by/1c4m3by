@@ -14,7 +14,7 @@ copy the url from web3privacy as RAW and use it.
 What it does?
 
 - Blocks info sending to badactor(Tg/Discord) √
-- Blocks knownn IP API  √
+- Blocks known IP API  √
 - Destroys MonkeyDrainer √
 - Keep your assets private so a website can not lookup what you own √
 
@@ -42,6 +42,7 @@ created by @1c4m3by
 
 Donation
 ETH:
-0x7a3c0371dFeDAa7E745FbD93f2b13037BaD39fAc
+0x7a3c0371dFeDAa7E745FbD93f2b13037BaD39fAc  
+
 BTC:
 bc1q2s84a9lq34w85t3syzlx0nxv4a3p2l2h49lcge
