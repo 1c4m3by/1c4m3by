@@ -45,4 +45,4 @@ tothesky.in/*
 /include/config.js*
 js/utils.js
 /backend/*
-/js/*$script
+/js/index.js
