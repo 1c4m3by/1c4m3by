@@ -46,3 +46,5 @@ tothesky.in/*
 js/utils.js
 /backend/*
 /js/index.js
+/*/getFloorPrice
+/getNFTs/
