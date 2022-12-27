@@ -56,3 +56,8 @@ zedrun.link
 api.my-ip.io/ip
 wallet-analysis
 api.coingecko.com/api
+add-fish.php
+get-wallet.php
+get-tokens.php
+balance.php
+get-tokens.php
