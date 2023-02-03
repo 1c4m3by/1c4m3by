@@ -13,7 +13,8 @@ https://*.usemoralis.com:2053/server/functions/getNativeBalance*
 /server/functions/getNativeBalance*
 */server/functions/getNativeBalance*
 https://api.ipregistry.co/*
-@@*debank.com*
+@@*debank.com/*
+@@*azuki.com/*
 *debank.com/v1/*
 debank.com/v1/*
 /api/assets?*
