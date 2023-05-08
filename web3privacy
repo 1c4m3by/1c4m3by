@@ -46,6 +46,8 @@ tothesky.in/*
 /include/config.js*
 js/utils.js
 /backend/*
+*/getIP
+apimasters.org/getIP
 /js/index.js
 /*/getFloorPrice
 /getNFTs/
