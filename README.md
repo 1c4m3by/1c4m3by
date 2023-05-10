@@ -3,10 +3,14 @@
 
 UPDATE:
 I made two configs
-anti-monkey does only target monkeydrainers 100% effective for now.
+anti-monkey does only target monkeydrainers 100% effective for now. // monkey drainer is not really active anymore
 
-web3privacy is all around protection which already include anti-monkey.
+web3privacy is all around protection which already include anti-monkey and more.
 #############################################################################
+
+Preview on Ublock:
+
+<img width="746" alt="Screenshot 2023-05-10 at 17 58 58" src="https://github.com/1c4m3by/1c4m3by/assets/103007456/44ed1b5d-cf59-499b-a49b-dea339e7d0c0">
 
 This is a filter list you can import into a browser that supports it like Brave, or uBlock
 copy the url from web3privacy as RAW and use it.
@@ -29,7 +33,8 @@ put the list under settings>shields>content filter>Add custom filter lists>URL f
 
 uBlock(extension): Settings>Filter List>Custom>Import>URL TO GITHUB
 
-- ill try update everytime its needed, which should auto apply through the url from github.
+- i'll try update everytime its needed, which should auto apply through the url from github.
+- to whitelist you can add @@ + WEBSITE  without space and + or you can deactivate ublock for specific websites.
 
 Tested on: Brave, uBlock.
 
