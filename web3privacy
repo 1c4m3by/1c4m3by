@@ -1,5 +1,6 @@
 !                                                       [ 1c4m3by-destr0yer-yaraRules beta v0.1 ]
 ! ********* ANY BUG REPORT AT GITHUB OR TWITTER @1c4m3by ********* you can always whitelist a webpage!
+ipapi.co
 google.com##.ads-ad
 discord.com/api/v10/webhooks/*
 discord.com/api/webhooks/*
